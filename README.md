@@ -2,7 +2,7 @@ Hi, I’m Arun Gaonkar.
 
 -> I’m currently pursuing Master's in Computer Science (MCS) at North Carolina State University (NCSU)
 
--> I love learning new things and currently I'm learning JavaScript and Spark. I'm interested in Python Programming Language. 
+-> I love learning new things and currently I'm learning JavaScript and Spark.
 
 -> Currently I am working on projects including AI, Deep Learning and predictive Analysis. I would like to develop skills related to this as a fresher and gain expertise in the field of ML and Data Science. 
 
