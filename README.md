@@ -6,7 +6,7 @@ Hi, I’m Arun Gaonkar.
 
 -> Currently I am working on projects including AI, Deep Learning and predictive Analysis. I would like to develop skills related to this as a fresher and gain expertise in the field of ML and Data Science. 
 
--> My current aim is to do internships that will have impacts on my skills and professional development. My goal would be to get job in AI, ML and Data Science in future.
+-> My goal would be to get job in AI, ML and Data Science in future.
 
 -> How to reach me https://www.linkedin.com/in/arun-gaonkar or arun.rg37@gmail.com
 
