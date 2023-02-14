@@ -2,7 +2,7 @@ Hi, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif"
 
 I’m Arun Gaonkar.
 
-* Graduate Student at North Carolina State University, Raleigh (NCSU) 
+* Graduate Student at `North Carolina State University, Raleigh (NCSU).` 
 
 * I am researching on finding a solution for identfying the prejudice from social media posts using NLP.
 
