@@ -1,15 +1,15 @@
-Hi, I’m Arun Gaonkar.
+Hi, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving hand animated gif" height="40" width="40" /> 
 
--> I’m currently pursuing Master's in Computer Science (MCS) at North Carolina State University (NCSU)
+I’m Arun Gaonkar.
 
--> I love learning new things and currently I'm learning JavaScript and Spark.
+* Graduate Student at North Carolina State University, Raleigh (NCSU) 
 
--> Currently I am working on projects including AI, Deep Learning and predictive Analysis. I would like to develop skills related to this as a fresher and gain expertise in the field of ML and Data Science. 
+* I am researching on finding a solution for identfying the prejudice from social media posts using NLP.
 
--> My goal would be to get job in AI, ML and Data Science in future.
+* You can reach me through my [email](mailto:arun.rg37@gmail.com) `arun.rg37@gmail.com` or at [LinkedIn](https://www.linkedin.com/in/arun-gaonkar).
 
--> How to reach me https://www.linkedin.com/in/arun-gaonkar or arun.rg37@gmail.com
+* Some of my repositories are private due to class restrictions, I'll make it public once I have graduated.
 
--> Some of my repositories are private due to class restrictions, I'll make it public once I have completed those courses.
+* Up for a chat about Technology, Geo-politics, Badminton, Cricket, and Trekking.
 
--> Up for chat about Novels (esp. Mystery, Adventure), Trekking and Innnovation.
+* Hit me up with any rational, radical and/or hypothetical thoughts.
