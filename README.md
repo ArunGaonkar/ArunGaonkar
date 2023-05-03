@@ -12,4 +12,3 @@ I’m Arun Gaonkar.
 
 * Up for a chat about Technology, Geo-politics, Badminton, Cricket, and Trekking.
 
-* Hit me up with any rational, radical and/or hypothetical thoughts.
